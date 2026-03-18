@@ -1,1 +1,55 @@
+body {
+    background: rgb(153, 1, 1);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
 
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background: black;
+    padding: 20px;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    font-size: 3em;
+    border: 6px groove white;
+    border-radius: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    width: 100px;
+    border-left: 30px double rgb(61, 61, 61);
+    padding: 10px;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+
+p {
+    line-height: 2em;
+}
+
+img {
+    width: 350px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+
+#pic2 {
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.highlight {
+    background: yellow;
+    font-weight: bold;
+    color: black;
+    padding: 6px;
+    border-radius: 6px;
+}
